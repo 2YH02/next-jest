@@ -3,7 +3,9 @@
     "next/core-web-vitals",
     "airbnb",
     "airbnb-typescript",
-    "prettier"
+    "prettier",
+    "plugin:testing-library/react",
+    "plugin:jest-dom/recommended"
   ],
   "parserOptions": {
     "project": "./tsconfig.json"
